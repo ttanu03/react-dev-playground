@@ -1,8 +1,19 @@
 # react-dev-playground
 February 18, 2026
 
-Beginning my React.js journey to enhance my ability to build dynamic and scalable frontend applications.
+With 7–8 months of prior experience working with React.js, I am revisiting the library to strengthen my architectural understanding and refine my frontend development practices.
 
-My goal is to deeply understand component architecture, state management, UI consistency,Syncronous and how React ensures efficient and predictable rendering.
+This phase focuses on building structured projects while deepening my understanding of:
 
-This repository will track my progress, experiments, and project implementations.
+Component-driven architecture
+
+State management patterns
+
+Re-rendering behavior and reconciliation
+
+UI consistency and scalable design systems
+
+Performance optimization techniques
+
+The goal is not to relearn React, but to master it — by writing cleaner, more predictable, and production-ready code.
+This repository documents my structured revision process and project-based improvements.
