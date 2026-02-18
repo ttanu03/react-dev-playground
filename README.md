@@ -16,4 +16,5 @@ UI consistency and scalable design systems
 Performance optimization techniques
 
 The goal is not to relearn React, but to master it — by writing cleaner, more predictable, and production-ready code.
-This repository documents my structured revision process and project-based improvements.
+This repository focuses on implementing scalable frontend architecture patterns and refining engineering practices through real-world project development.
+I am planning to sit today all day and understand the working flow of ui so i can visually better the architecture pattern of any system from basics
