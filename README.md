@@ -1,5 +1,5 @@
 # react-dev-playground
-February 18, 2026
+February 18, 2026 “State is the single source of truth, and UI is a function of state.”
 
 With 7–8 months of prior experience working in real-world project, I am revisiting the library to strengthen my architectural understanding and refine my frontend development practices.
 
