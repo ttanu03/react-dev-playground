@@ -1,7 +1,7 @@
 # react-dev-playground
 February 18, 2026
 
-With 7–8 months of prior experience working with React.js, I am revisiting the library to strengthen my architectural understanding and refine my frontend development practices.
+With 7–8 months of prior experience working in real-world project, I am revisiting the library to strengthen my architectural understanding and refine my frontend development practices.
 
 This phase focuses on building structured projects while deepening my understanding of:
 
